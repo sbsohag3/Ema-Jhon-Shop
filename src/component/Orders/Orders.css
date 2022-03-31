@@ -1,0 +1,8 @@
+.order-container{
+    margin: 100px auto ;
+    display: flex;
+    justify-content: space-evenly;
+   
+    /* margin-top: 30px; */
+    
+}
