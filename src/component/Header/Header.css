@@ -19,3 +19,15 @@
 .header a:hover{
     color: orange;
 }
+.signout-btn{
+    background: none;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+    border: none;
+    cursor: pointer;
+}
+.signout-btn:hover{
+    color: orange;
+}

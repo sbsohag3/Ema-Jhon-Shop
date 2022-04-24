@@ -1,0 +1,104 @@
+.form-container {
+  width: 500px;
+  border: 1px solid #95a0a7;
+  box-sizing: border-box;
+  border-radius: 8px;
+  /* display: flex; */
+  /* justify-content: center; */
+  margin: 50px auto;
+  box-shadow: #ffe0b3 -15px 15px;
+  padding: 0 43px;
+}
+.form-title {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 42px;
+  /* identical to box height */
+  letter-spacing: 0.0025em;
+  color: #2a414f;
+  text-align: center;
+}
+/* form {
+  padding: 0 92px;
+} */
+.input-group label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.input-group input {
+  width: 415px;
+  height: 55px;
+  border: 1px solid #95a0a7;
+  box-sizing: border-box;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  outline: none;
+  font-size: 20px;
+  padding: 10px;
+}
+.form-submit {
+  width: 415px;
+  height: 55px;
+  background: rgba(255, 153, 0, 0.3);
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.form-submit:hover{
+  background: rgba(255, 153, 0, 0.5);
+}
+.form-container p {
+  text-align: center;
+}
+.form-link {
+  text-decoration: none;
+  color: #ff9900;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  margin-left: 5px;
+}
+.hr-or {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 26px;
+  margin: 30px;
+}
+.hr-line {
+  width: 145px;
+}
+.google-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 415px;
+  height: 55px;
+  border: 1px solid #95a0a7;
+  box-sizing: border-box;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #ffffff;
+  margin-bottom: 45px;
+}
+.icon {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+}
+.google-btn p {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.005em;
+  color: #2a414f;
+}
